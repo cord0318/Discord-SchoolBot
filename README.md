@@ -1,7 +1,7 @@
 # ***School Discord Bot***
 
 ## ***Introduce***
-  > 이 봇은 <a href="https://github.com/cord0318/python_school_data">laftel</a> <a href="https://pypi.org/project/school-data/">(pypi)</a>을 사용하여 제작되었습니다.
+  > 이 봇은 <a href="https://github.com/cord0318/python_school_data">school-data</a> <a href="https://pypi.org/project/school-data/">(pypi)</a>을 사용하여 제작되었습니다.
   기본 접두사는 '**?**' 이며 **src** 폴더에 있는 **config.py**에서 수정가능합니다.
 
 <br><br>
